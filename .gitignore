@@ -1,0 +1,18 @@
+# Ignore log files
+*.log
+# Ignore IPython Notebook checkpoints (hidden directories)
+.ipynb_checkpoints/
+
+# Ignore the `.ipynb` configuration file
+.ipynb_checkpoints/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore folders
+work_in_progress/
+old_versions/
+
+# Cython
+build/
