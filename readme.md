@@ -25,7 +25,7 @@
 - PyMP - 2pm to 3pm
 - Cython - 3pm to 4pm
 - Numba - 4pm to 5pm
-- 
+
 ### Requirements
 - Having an HPC account to access the cluster.
 - Basic knowledge on SLURM (beginners HPC school).
