@@ -1,5 +1,8 @@
 ## Welcome to the Python HPC workshop! 
 
+**Start by opening the file 0_presentation.pdf to setup jupyter.**
+The rest of tutorials are in the notebook files.
+
 ### First day – Jupyter notebook on ULHPC / profiling efficient usage of Numpy
 
 #### Program
