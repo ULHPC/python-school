@@ -35,4 +35,4 @@ The rest of tutorials are in the notebook files.
 - A basic understanding of Python programming.
 - Familiarity with Jupyter Notebook (installed and configured).
 - A basic understanding of Numpy and linear algebra.
-- Familiarity with parallel programming.
+- Familiarity with parallel programming. 
