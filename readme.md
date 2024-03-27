@@ -21,8 +21,8 @@ The rest of tutorials are in the notebook files.
 ### Second day – Improving performance with python parallel packages
 
 #### Program
-- Use case understanding and Python implementation - 9:30am to 10am
-- Numpy implementation - 10am to 11am
+- Use case understanding and Python implementation - 10am to 10:30am
+- Numpy implementation - 10:30am to 11am
 - Python’s Multiprocessing - 11am to 12pm
 - Lunch break - 12pm to 2pm
 - PyMP - 2pm to 2:30pm
